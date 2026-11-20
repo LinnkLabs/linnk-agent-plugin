@@ -1,0 +1,9 @@
+{
+  "name": "linnk",
+  "description": "Translate PDF, Word, Excel, PowerPoint and scanned documents with the original layout, tables and formulas preserved, via the Linnk CLI. Free trial of up to 20 pages, no signup.",
+  "version": "0.1.0",
+  "author": { "name": "Linnk", "url": "https://linnk.ai" },
+  "homepage": "https://linnk.ai/cli/",
+  "license": "MIT",
+  "keywords": ["translation", "document-translation", "pdf", "docx", "xlsx", "pptx", "ocr", "layout", "linnk"]
+}

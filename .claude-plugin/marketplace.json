@@ -1,0 +1,16 @@
+{
+  "name": "linnk",
+  "owner": { "name": "Linnk", "url": "https://linnk.ai" },
+  "metadata": { "description": "Linnk for coding agents: translate document files with the layout, tables and formulas intact." },
+  "plugins": [
+    {
+      "name": "linnk",
+      "source": "./claude",
+      "description": "Translate PDF, Word, Excel, PowerPoint and scanned documents with the original layout, tables and formulas preserved. File in, translated file out, in the same format.",
+      "category": "productivity",
+      "homepage": "https://linnk.ai/cli/",
+      "author": { "name": "Linnk", "url": "https://linnk.ai" },
+      "keywords": ["linnk", "translation", "document-translation", "pdf", "docx", "xlsx", "pptx", "ocr", "layout", "localization"]
+    }
+  ]
+}
